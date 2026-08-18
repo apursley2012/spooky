@@ -9,7 +9,7 @@ Date: June 2026
 
 # Spooky — Static Portfolio Theme
 
-**An open-source, Halloween-themed portfolio template, featuring animated candle cursors, ghost mascots, a full, dark, atmospheric design, and a playful spooky edge.**
+**An open-source, Halloween-themed portfolio template, featuring eerie decorative details, animated candle cursors, ghost mascots, a full, dark, atmospheric design, and a playful spooky edge.**
 
 [![spooky-github-pages-theme Theme Preview](./images/screenshots/spooky-preview-placeholder.svg)](./images/screenshots/spooky-preview-placeholder.svg)
 
