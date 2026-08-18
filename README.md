@@ -7,9 +7,9 @@ Date: June 2026
 
 <div align="center">
 
-# spooky-github-pages-theme — Static Portfolio Theme
+# Spooky — Static Portfolio Theme
 
-**A standalone static portfolio theme with a distinctive spooky-github-pages-theme visual direction.**
+**An open-source, Halloween-themed portfolio template, featuring animated candle cursors, ghost mascots, a full, dark, atmospheric design, and a playful spooky edge.**
 
 [![spooky-github-pages-theme Theme Preview](./images/screenshots/spooky-preview-placeholder.svg)](./images/screenshots/spooky-preview-placeholder.svg)
 
