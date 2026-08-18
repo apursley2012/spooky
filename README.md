@@ -1,6 +1,6 @@
 <!--
 File: README.md
-Document Title: spooky-github-pages-theme — Static Portfolio Theme
+Document Title: Spooky — Static Portfolio Theme
 Author: Alysha Pursley
 Date: June 2026
 -->
@@ -11,7 +11,7 @@ Date: June 2026
 
 **An open-source, Halloween-themed portfolio template, featuring eerie decorative details, animated candle cursors, ghost mascots, a full, dark, atmospheric design, and a playful spooky edge.**
 
-[![spooky-github-pages-theme Theme Preview](./images/screenshots/spooky-preview-placeholder.svg)](./images/screenshots/spooky-preview-placeholder.svg)
+[![Spooky Theme Preview](./images/screenshots/spooky-preview-placeholder.svg)](./images/screenshots/spooky-preview-placeholder.svg)
 
 [Open the live demo](https://apursley2012.github.io/spooky/) · [Browse the full theme collection](https://github.com/apursley2012/github-pages-themes) · [Report an issue or request an addition](https://github.com/apursley2012/spooky/issues/new/choose)
 
@@ -43,9 +43,11 @@ Date: June 2026
 
 ## Theme Overview
 
+Spooky is a standalone static portfolio theme built for developers who want their personal site to have genuine personality. Instead of another minimal white-space grid, Spooky wraps your projects, skills, work history, writing, and contact form inside a fully atmospheric Halloween aesthetic — complete with a flickering candle cursor, a ghost mascot that slides in from the side, animated cobweb corners, and a spider that drops down the screen when your visitor least expects it. It is an open-source template maintained by Alysha Pursley, deployable to GitHub Pages with zero configuration, and designed to be customized by replacing placeholder text rather than rewriting layout code.
+
 ### Purpose
 
-**spooky-github-pages-theme** is a distinctive static portfolio theme designed to highlight projects, skills, experience, writing, and professional identity through a defined visual direction.
+**Spooky** is a distinctive static portfolio theme designed to highlight projects, skills, experience, writing, and professional identity through a defined visual direction.
 
 This theme can be opened locally, hosted with GitHub Pages, or adapted into a standalone personal website. The included files are ready to publish directly from a GitHub repository.
 
@@ -79,7 +81,7 @@ The visual direction should remain recognizable when the written content is cust
 Click any preview image to open the full-size file.
 
 <p align="center">
-  <a href="./images/screenshots/spooky-preview-placeholder.svg"><img src="./images/screenshots/spooky-preview-placeholder.svg" width="48%" style="max-width: 48%; height: auto;" alt="spooky-github-pages-theme preview image 1"></a>
+  <a href="./images/screenshots/spooky-preview-placeholder.svg"><img src="./images/screenshots/spooky-preview-placeholder.svg" width="48%" style="max-width: 48%; height: auto;" alt="Spooky preview image 1"></a>
 </p>
 
 #### Screenshot Gallery
